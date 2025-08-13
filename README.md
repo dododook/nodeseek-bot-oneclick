@@ -1,4 +1,4 @@
-# NodeSeek 签到 Telegram Bot · 一键 Docker 部署（修正版）
+# NodeSeek  Telegram Bot · 一键 Docker 部署（修正版）
 
 > 只需输入 **Bot 令牌** 和 **管理员 ID**，其他全部自动完成：安装/配置 Docker、生成目录与密钥、写入 `.env` & `docker-compose.yml`、拉取镜像并启动。  
 > 镜像：`yaoguangting/nodeseek-bot:latest` · 一键脚本仓库：`dododook/nodeseek-bot-oneclick`
